@@ -1,6 +1,7 @@
 # My first Module
 This solve all your infrastructure needs.
 ## usage
+Sample usage
 ```
 module "my_vpc_module" {
   source = "github.com/tsubramanian1/tf_module_example"
